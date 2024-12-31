@@ -49,7 +49,3 @@ git push origin feature/your-feature
 
 - Open a pull request.
 
-
-## Replace:
-1. **`nisargpatel7042lva`**: Replace this with your GitHub username.
-2. **`nisargpatel_5565@outlook.com`**: Replace this with your contact email.
