@@ -17,7 +17,7 @@ A simple and efficient Chrome extension to generate secure random passwords on d
    ```bash
    git clone https://github.com/nisargpatel7042lva/password-generator-extension.git
 
-##⚙️ How to Use
+## ⚙️ How to Use
 
 - Launch the Extension: Click the Password Generator icon in your Chrome toolbar.
 - Set Password Length: Enter your desired password length in the input field (maximum of 25 characters).
@@ -27,13 +27,13 @@ A simple and efficient Chrome extension to generate secure random passwords on d
 - Click on the password, and it will be copied to your clipboard with a confirmation message.
 - Use Anywhere: Paste the copied password into any application or website as needed.
 
-##📦 File Structure
+## 📦 File Structure
 - manifest.json: Configures the extension for Chrome.
 - popup.html: Contains the UI for the extension popup.
 - popup.css: Styles the popup interface.
 - popup.js: Implements the core functionality, including password generation and clipboard copy.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! To contribute:
 
 - Fork the repository.
